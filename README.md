@@ -1,7 +1,7 @@
 # BeerAdvocate Recommender System
 
 ## Description
-This project was completed in 2023 as part of my exploration of recommendation systems and machine learning techniques using Python. The goal was to develop a recommender system for the BeerAdvocate platform, where users review and rate beers. The system uses **Collaborative Filtering** techniques to suggest beers based on user preferences and ratings.
+This project was completed in 2023 as part of my exploration of recommendation systems and machine learning techniques using Python. The goal was to develop a recommender system for the BeerAdvocate platform ([Dataset link](https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate)), where users review and rate beers. The system uses **Collaborative Filtering** techniques to suggest beers based on user preferences and ratings.
 
 ## Objectives
 - Build a recommender system to suggest personalized beer recommendations to users.
